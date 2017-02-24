@@ -1,0 +1,10 @@
+C:\Users\AndersBl\Code\Pawgram3\Pawgram\bin\Debug\netcoreapp1.0\Pawgram.deps.json
+C:\Users\AndersBl\Code\Pawgram3\Pawgram\bin\Debug\netcoreapp1.0\Pawgram.runtimeconfig.json
+C:\Users\AndersBl\Code\Pawgram3\Pawgram\bin\Debug\netcoreapp1.0\Pawgram.runtimeconfig.dev.json
+C:\Users\AndersBl\Code\Pawgram3\Pawgram\bin\Debug\netcoreapp1.0\Pawgram.dll
+C:\Users\AndersBl\Code\Pawgram3\Pawgram\bin\Debug\netcoreapp1.0\Pawgram.pdb
+C:\Users\AndersBl\Code\Pawgram3\Pawgram\obj\Debug\netcoreapp1.0\Pawgram.csprojResolveAssemblyReference.cache
+C:\Users\AndersBl\Code\Pawgram3\Pawgram\obj\Debug\netcoreapp1.0\UserSecretsAssemblyInfo.cs
+C:\Users\AndersBl\Code\Pawgram3\Pawgram\obj\Debug\netcoreapp1.0\Pawgram.AssemblyInfo.cs
+C:\Users\AndersBl\Code\Pawgram3\Pawgram\obj\Debug\netcoreapp1.0\Pawgram.dll
+C:\Users\AndersBl\Code\Pawgram3\Pawgram\obj\Debug\netcoreapp1.0\Pawgram.pdb
