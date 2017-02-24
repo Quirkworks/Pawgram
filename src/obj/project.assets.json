@@ -23995,10 +23995,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AndersBl\\Code\\Pawgram3\\Pawgram\\Pawgram.csproj",
+      "projectUniqueName": "C:\\Users\\AndersBl\\Code\\Pawgram\\src\\Pawgram.csproj",
       "projectName": "Pawgram",
-      "projectPath": "C:\\Users\\AndersBl\\Code\\Pawgram3\\Pawgram\\Pawgram.csproj",
-      "outputPath": "C:\\Users\\AndersBl\\Code\\Pawgram3\\Pawgram\\obj\\",
+      "projectPath": "C:\\Users\\AndersBl\\Code\\Pawgram\\src\\Pawgram.csproj",
+      "outputPath": "C:\\Users\\AndersBl\\Code\\Pawgram\\src\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.0"
